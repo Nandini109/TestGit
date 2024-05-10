@@ -5,3 +5,4 @@
 4. Test 4
 5.making changes to the main branch after testing testBranch
 6.Merging main into test branch
+7. New Line
